@@ -33,8 +33,8 @@ uint8_t servonumtwo = servonum  + 1;
 uint8_t servonumthree = servonumtwo + 1;
 
 // Replace with your network credentials
-const char* ssid     = "NETGEAR25";
-const char* password = "strongiris114";
+const char* ssid     = "";
+const char* password = "";
 
 // Name local host
 const char* host = "robotarm";
