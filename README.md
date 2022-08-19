@@ -13,12 +13,11 @@ It needs to be the domain for the web cam server. If it remains local, it will n
 
 # What's next:
 
-Plan to fix and style the html page with css.
-Need to pay for ngrok pro so I can tunnel multiple hosts to subdomainbs and have the web cam work live
-Need to speed up requests, takes about 1.5 seconds per request sent to servo.
+- Plan to fix and style the html page with css.
+- Need to figure out how to speed up requests. takes abotu 1.5 seconds per servo request.
 
 
 # Reference code:
-- Written by BARRAGAN and modified by Scott Fitzgerald, Rui Santos https://randomnerdtutorials.com/esp32-servo-motor-web-server-arduino-ide/
+- Web server servo code by BARRAGAN and modified by Scott Fitzgerald, Rui Santos https://randomnerdtutorials.com/esp32-servo-motor-web-server-arduino-ide/
 
 - Django opencv https://www.youtube.com/watch?v=xz9MvyKGYio&t
