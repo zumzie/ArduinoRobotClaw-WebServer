@@ -10,7 +10,7 @@ It needs to be the domain for the web cam server. If it remains local, it will n
 
 
 
-#What next:
+#What's next:
 Plan to fix and style the html page with css.
 Need to pay for ngrok pro so I can tunnel multiple hosts and have the web cam work live
 Need to speed up requests, takes about 1.5 seconds per request sent to servo.
