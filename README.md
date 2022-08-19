@@ -18,9 +18,7 @@ Need to pay for ngrok pro so I can tunnel multiple hosts to subdomainbs and have
 Need to speed up requests, takes about 1.5 seconds per request sent to servo.
 
 
-# original code:
-Written by BARRAGAN and modified by Scott Fitzgerald, Rui Santos
-https://randomnerdtutorials.com/esp32-servo-motor-web-server-arduino-ide/
+# Reference code:
+- Written by BARRAGAN and modified by Scott Fitzgerald, Rui Santos https://randomnerdtutorials.com/esp32-servo-motor-web-server-arduino-ide/
 
-# django code:
-https://www.youtube.com/watch?v=xz9MvyKGYio&t
+- Django opencv https://www.youtube.com/watch?v=xz9MvyKGYio&t
