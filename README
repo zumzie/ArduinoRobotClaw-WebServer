@@ -1,0 +1,12 @@
+Work in progress...
+
+
+Using ngrok to tunnel multiple host. The arduino code needs to be modified for the img src link. 
+It needs to be the domain for the web cam server. If it remains local, it will not appear for people who visit.
+
+
+
+What next:
+# Plan to fix and style the html page with css.
+# Need to pay for ngrok pro so I can tunnel multiple hosts and have the web cam work live
+# Need to speed up requests, takes about 1.5 seconds per request sent to servo.
